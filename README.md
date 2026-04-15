@@ -46,4 +46,4 @@ Rabbit is a modern, high-performance Android music player built with Jetpack Com
 - **Settings**: Minimalist configuration for technical info display and library management.
 
 ---
-*Developed by iamyourbrownstar*
+*Developed with ❤️ for audiophiles.*
